@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= 'karthi123MEES', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [61916,12425,94322], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [61916,12425], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'EMBEDDED BASED FUEL TANK MONITORING SYSTEM FOR MOBILE BASE STATIONS', // Replaces Xively logo in the header
 		dataDuration	= '2days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 60, // Default interval for data to be displayed (in seconds)
